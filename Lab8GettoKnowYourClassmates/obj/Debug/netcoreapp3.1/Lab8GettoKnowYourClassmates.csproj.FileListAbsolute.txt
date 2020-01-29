@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.exe
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.deps.json
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.runtimeconfig.json
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.dll
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\bin\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.pdb
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.dll
+C:\Users\Michael\source\repos\Grand Circus\Lab8GettoKnowYourClassmates\Lab8GettoKnowYourClassmates\obj\Debug\netcoreapp3.1\Lab8GettoKnowYourClassmates.pdb
